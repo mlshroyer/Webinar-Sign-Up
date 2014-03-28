@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background: #222;
+	overflow: hidden;
+}
+form    {
+	margin: 0px 0px 0px 0px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 600px;
+	height: 600px;
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+	background-color: #222;
+	background-image: url('https://dl.dropboxusercontent.com/u/81015598/new-community-app/supportcentersb/forms/images/form-logo.png');
+	background-repeat:no-repeat;
+	background-position: 360px 330px;
+	color: #f0f0f0;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border-style: none;
+}
+.logo-header {
+	margin: 0px 0px 10px 0px;
+}
+.title {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+label {
+	line-height: 20px;
+	z-index: 1;
+}
+p {
+	font-size: 12px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+input {
+	width: 375px;
+	display: block;
+	background: #F5F5F5;
+	color: #111111;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #00AAE5;
+	z-index: 2;
+}
+select {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: 375px;
+	display: block;
+	background: #F5F5F5;
+	color: #111111;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #00AAE5;
+}
+label#services {
+	line-height: 16px;
+	width: 250px;
+}
+select#choose-serv {
+	display: block;
+}
+select.choose_webinar{
+	display: block;
+}
+select.choose_date{
+	display: block;
+}
+select#choose-serv.option {
+	width: 350px;
+}
+textarea#message {
+	width:375px;
+	height:100px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #00AAE5;
+	display: block;
+	background: #F5F5F5;
+}
+input#submit-button {
+	width: 150px;
+	height: 30px;
+	color: #F0F0F0;
+	background: #00AAE5;
+	border-style: none;
+	font-family: 'Archivo Black', sans-serif;
+}
+input#submit-button:hover {
+	color: #F0F0F0;
+	background: #008FC0;
+}
+.alert_val {
+	display: none;
+	width: 175px;
+	height: 50px;
+	left: 395px;
+	font-size: 11px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #CC0003;
+	position: absolute;
+	float: right;
+}
+.webinar_desc {
+	font-size: small;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	display: none;
+	position: absolute;
+	top: 120px;
+	left: 395px;
+	width: 195px;
+	float: right;
+}
