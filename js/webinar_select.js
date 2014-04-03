@@ -56,7 +56,7 @@ $(function() {
 	 }, {
 		  "title": "Catalog v7 Overview",
 		  
-         "description": "In this Webinar session, will provide you with an introduction to the Universal Catalog v7 product, as well as an overview of the SPS Commerce Support Center and Portal Home Page. In this session you\’ll learn basic navigation and features of the Universal Catalog v7 product as well as how to upload a spreadsheet of your item data and how to manually add item data.",
+         "description": "In this Webinar session, will provide you with an introduction to the Universal Catalog v7 product, as well as an overview of the SPS Commerce Support Center and Portal Home Page. In this session you\'ll learn basic navigation and features of the Universal Catalog v7 product as well as how to upload a spreadsheet of your item data and how to manually add item data.",
 		 
          "w_code" : "c7o",
 		 
@@ -76,7 +76,7 @@ $(function() {
 	 }, {
 		  "title": "Advance Ship Notice & Shipping Label Overview",
 		  
-         "description": "In this Webinar, \“Advance Ship Notice & Shipping Label Overview\” we will cover how to fill out an Advance Ship Notice, outlining best practices and frequently asked questions. Learn about common pack structures and general guidelies found within the Supply Chain. You\’ll also see how the information entered on your ASN is used to generate Shipping Labels.",
+         "description": "In this Webinar, \"Advance Ship Notice & Shipping Label Overview\" we will cover how to fill out an Advance Ship Notice, outlining best practices and frequently asked questions. Learn about common pack structures and general guidelies found within the Supply Chain. You\'ll also see how the information entered on your ASN is used to generate Shipping Labels.",
 		 
          "w_code" : "asno",
 		 
